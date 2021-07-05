@@ -80,7 +80,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 	top: 0;
 	left: 0;
     z-index: 9999;
-	background: linear-gradient(120deg, rgb(0, 0, 0), rgb(25, 20, 60));
+	background: linear-gradient(120deg, rgb(0, 0, 0), rgb(50, 210, 35));
 }
 .overlay .overlay-close {
     width: 50px;
@@ -183,7 +183,7 @@ HH				Header
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 .header{
 	height: 100vh;
-	background: linear-gradient(120deg, rgb(0, 0, 0), rgb(25, 20, 60));
+	background: linear-gradient(120deg, rgb(0, 0, 0), rgb(50, 210, 35));
     padding: 45px 0px;
 }
 #logo {
@@ -673,7 +673,7 @@ ul.social-icon li a {
 HH 				Testimonial
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 #testimonial{
-	background: linear-gradient(120deg, rgb(0, 0, 0), rgb(25, 20, 60));
+	background: linear-gradient(120deg, rgb(0, 0, 0), rgb(50, 210, 35));
     color: white;
     padding: 100px 0px;
     /*position: relative;*/
