@@ -183,7 +183,7 @@ HH				Header
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 .header{
 	height: 100vh;
-	background: linear-gradient(120deg, rgb(0, 0, 0), rgb(50, 210, 35));
+	background: linear-gradient(120deg, rgb(0, 0, 0), rgb(255, 102, 25));
     padding: 45px 0px;
 }
 #logo {
